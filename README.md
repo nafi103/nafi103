@@ -1,7 +1,7 @@
 <img src="Pixel Jeff_ Photo.gif">
 
 # 💫 About Me:
-⚡ I'm a Competitive Programmer
+⚡ Passionate about competitive programming and constantly working to improve my skills on platforms like LightOJ, Toph, Codeforces and more. I'm currently studying Computer Science and Engineering at Jashore University of Science and Technology.
 
 
 ## 🌐 Socials:
