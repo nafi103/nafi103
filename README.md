@@ -1,4 +1,4 @@
-<img src = "Pixel Jeff_ Photo.gif">
+<img src="Pixel Jeff_ Photo.gif" width="100%" height="500">
 
 # 💫 About Me:
 ⚡ I'm a Competitive Programmer
