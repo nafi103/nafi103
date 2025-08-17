@@ -9,7 +9,6 @@
   </a>
 </p>
 
----
 
 ## 🌐 Connect With Me
 <p align="center">
@@ -19,7 +18,6 @@
   <a href="mailto:nasifshahrierrifat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
----
 
 ## 👨‍💻 About Me as a Competitive Programmer
 - 🎯 Specialist on **Codeforces** and **4★ on CodeChef**.  
@@ -27,7 +25,6 @@
 - 💡 Strong interest in **Dynamic Programming, Number Theory, and Graph Algorithms**.  
 - 📚 Constantly practicing and solving problems from **LightOJ, Toph, Codeforces, AtCoder, and CSES**.  
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -51,11 +48,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nafi103&theme=radical&no-frame=true&row=1&column=7"width="99%"/>
 </p>
 
----
 
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
----
