@@ -14,7 +14,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## <picture><img src = "https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp?raw=true" width = 50px></picture> Github Stats
-<picture> <img align="right" src=https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp" width = 280px, height = 250></picture>
 
 | <img width="700" align="center" src="https://github-contributor-stats.vercel.app/api?username=nafi103&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true&hide_border=true" /> | <img width="80%" align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nafi103&theme=radical&layout=compact&hide_border=true" /> 
 |---|---|
