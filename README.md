@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nafi103&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true&hide_border=true" width="50%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=nafi103&limit=5&theme=radical&combine_all_yearly_contributions=true&show_icons=true&hide_border=true" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafi103&langs_count=6&theme=radical&layout=compact&hide_border=true" width="49%"/>
 </p>
 
