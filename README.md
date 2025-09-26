@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=500&lines=5%2B+IUPC+Participation;NCPC+2023+Contestant;Specialist+on+Codeforces;4*+on+CodeChef;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=500&lines=5%2B+IUPC+Participation;NCPC+2023+Contestant;Expert+on+Codeforces;4*+on+CodeChef;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 
 ## 👨‍💻 About Me as a Competitive Programmer
-- 🎯 Specialist on **Codeforces** and **4★ on CodeChef**.  
+- 🎯 Expert on **Codeforces** and **4★ on CodeChef**.  
 - 🏆 Participated in **NCPC 2023** and several **IUPCs**.  
 - 💡 Strong interest in **Dynamic Programming, Number Theory, and Graph Algorithms**.  
 - 📚 Constantly practicing and solving problems from **LightOJ, Toph, Codeforces, AtCoder, and CSES**.  
